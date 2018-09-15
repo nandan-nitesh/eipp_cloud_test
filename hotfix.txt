@@ -1,1 +1,2 @@
 This is hotfix from upstream.
+This is second line from hotfix.
