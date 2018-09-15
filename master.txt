@@ -1,1 +1,2 @@
 this is master from upstream
+this is second line from master.
